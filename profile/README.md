@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="The StoryToons logo, a girl holding a glowing lantern" src="assets/banner-light.png">
+</picture>
+
 # StoryToons
 
 Our mission is to accelerate child development and early learning
