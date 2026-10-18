@@ -3,7 +3,7 @@
   <img alt="The StoryToons logo, a girl holding a glowing lantern" src="assets/banner-light.png">
 </picture>
 
-# StoryToons
+# StoryToons™
 
 Our mission is to accelerate child development and early learning
 through technology and innovation.
